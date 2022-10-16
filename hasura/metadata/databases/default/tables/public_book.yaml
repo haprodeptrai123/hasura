@@ -1,0 +1,3 @@
+table:
+  name: book
+  schema: public
